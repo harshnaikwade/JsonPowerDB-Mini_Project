@@ -21,7 +21,8 @@
       move the cursor to the next' field in the form. Keep the primary key field disabled and allow users to change other form fields.
 
       
-![img](https://user-images.githubusercontent.com/96978449/210928948-8cc96201-3938-4fbb-af9f-88a2bf6aefee.png)
+![Screenshot_20230106_063901](https://user-images.githubusercontent.com/97459506/211020039-71d47c79-3f31-4605-8b8a-5bf8894eacf1.png)
+
 # Benefits of using JsonPowerDB: 
                                1. Nimble, Simple to use, In Memory, Real-time.
                                2. Schema free - easy to maintain. 
